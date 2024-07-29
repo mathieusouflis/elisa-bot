@@ -1,0 +1,253 @@
+{
+  "global": {
+    "game": {
+      "players": {
+        "731235072400949289": {
+          "money": 0,
+          "health": 100,
+          "shield": 0,
+          "power": 10,
+          "strength": 10,
+          "guild": null,
+          "inventory": {}
+        },
+        "295553133755498498": {
+          "money": 0,
+          "health": 100,
+          "shield": 0,
+          "power": 10,
+          "strength": 10,
+          "guild": null,
+          "inventory": {}
+        },
+        "564072281060409374": {
+          "money": 0,
+          "health": 100,
+          "shield": 0,
+          "power": 10,
+          "strength": 10,
+          "guild": null,
+          "inventory": {}
+        },
+        "1080936644250697878": {
+          "money": 0,
+          "health": 100,
+          "shield": 0,
+          "power": 10,
+          "strength": 10,
+          "guild": null,
+          "inventory": {}
+        }
+      }
+    }
+  },
+  "guilds": {
+    "1256625984262766622": {
+      "settings": {
+        "language": "fr"
+      },
+      "birthday": {
+        "channel": "",
+        "users": {}
+      },
+      "welcome": {
+        "channel": "",
+        "message": ""
+      },
+      "presence": {
+        "link": "",
+        "role": ""
+      },
+      "logs": {
+        "channel": ""
+      },
+      "leveling": {
+        "users": {
+          "731235072400949289": {
+            "level": 3,
+            "xp": 95,
+            "lastMessage": 1722080132392
+          },
+          "664508672713424926": {
+            "level": 1,
+            "xp": 12,
+            "lastMessage": 1720473041589
+          },
+          "295553133755498498": {
+            "level": 0,
+            "xp": 99,
+            "lastMessage": 1720473537711
+          }
+        }
+      },
+      "autoVoice": {
+        "masters": {}
+      }
+    },
+    "1257820843124457492": {
+      "settings": {
+        "language": "fr"
+      },
+      "birthday": {
+        "channel": "",
+        "users": {
+          "731235072400949289": {
+            "day": 2,
+            "month": 3,
+            "year": 2006
+          },
+          "325583735426646016": {
+            "day": 29,
+            "month": 5,
+            "year": 2005
+          },
+          "669239696940990485": {
+            "day": 25,
+            "month": 4
+          }
+        }
+      },
+      "welcome": {
+        "channel": "",
+        "message": ""
+      },
+      "presence": {
+        "link": "",
+        "role": ""
+      },
+      "logs": {
+        "channel": ""
+      },
+      "leveling": {
+        "users": {
+          "1257745083596537927": {
+            "level": 0,
+            "xp": 26,
+            "lastMessage": 1720303259226
+          },
+          "731235072400949289": {
+            "level": 5,
+            "xp": 64,
+            "lastMessage": 1722078232854
+          },
+          "295553133755498498": {
+            "level": 4,
+            "xp": 83,
+            "lastMessage": 1722078229189
+          },
+          "325583735426646016": {
+            "level": 1,
+            "xp": 28,
+            "lastMessage": 1720513849422
+          },
+          "860138041061146644": {
+            "level": 0,
+            "xp": 78,
+            "lastMessage": 1722033415998
+          },
+          "1003098638198775868": {
+            "level": 0,
+            "xp": 23,
+            "lastMessage": 1720644478165
+          },
+          "1210264955060887622": {
+            "level": 1,
+            "xp": 139,
+            "lastMessage": 1720646657883
+          },
+          "473900514434613273": {
+            "level": 0,
+            "xp": 5,
+            "lastMessage": 1720644642804
+          },
+          "1249350357738459188": {
+            "level": 0,
+            "xp": 43,
+            "lastMessage": 1720649073665
+          },
+          "1080936644250697878": {
+            "level": 0,
+            "xp": 5,
+            "lastMessage": 1721052521170
+          },
+          "555042015654707200": {
+            "level": 0,
+            "xp": 15,
+            "lastMessage": 1721068366702
+          },
+          "978695036747284490": {
+            "level": 0,
+            "xp": 7,
+            "lastMessage": 1722003004052
+          },
+          "669239696940990485": {
+            "level": 1,
+            "xp": 100,
+            "lastMessage": 1722080034581
+          }
+        }
+      },
+      "autoVoice": {
+        "masters": {
+          "1260706701909299241": {
+            "uses": 0,
+            "voicesName": "Salon",
+            "voiceChannels": {
+              "1266711640385261588": {
+                "owner": "731235072400949289",
+                "num": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    "1258406398400659559": {
+      "settings": {
+        "language": "fr"
+      },
+      "birthday": {
+        "channel": "",
+        "users": {}
+      },
+      "welcome": {
+        "channel": "",
+        "message": ""
+      },
+      "presence": {
+        "link": "",
+        "role": ""
+      },
+      "logs": {
+        "channel": ""
+      },
+      "leveling": {
+        "users": {
+          "731235072400949289": {
+            "level": 0,
+            "xp": 30,
+            "lastMessage": 1721082471623
+          },
+          "473900514434613273": {
+            "level": 0,
+            "xp": 40,
+            "lastMessage": 1720729792630
+          },
+          "860138041061146644": {
+            "level": 0,
+            "xp": 22,
+            "lastMessage": 1720729807898
+          },
+          "295553133755498498": {
+            "level": 0,
+            "xp": 6,
+            "lastMessage": 1720893329296
+          }
+        }
+      },
+      "autoVoice": {
+        "masters": {}
+      }
+    }
+  }
+}
